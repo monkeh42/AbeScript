@@ -5,6 +5,7 @@ body {
 }
 
 .testim {
+    margin: 25px 0px;
     border: 1px solid white;
     max-width: 300px;
     box-shadow: 5px 5px black;
@@ -20,6 +21,7 @@ body {
 }
 
 .abe-excerpt {
+    width: auto;
     border: 1px solid white;
     box-shadow: 5px 5px black;
     border-radius: 5px;
