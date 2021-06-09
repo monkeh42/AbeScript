@@ -3,3 +3,17 @@ body {
     color: white;
     text-shadow: 2px 2px black;
 }
+
+.testim {
+    max-width: 300px;
+    box-shadow: 5px 5px black;
+    border-radius: 5px;;
+}
+
+.testim .t-quote {
+    font-size: 20px;
+}
+
+.testim .t-cite {
+    font-size: 16px;
+}
