@@ -21,7 +21,8 @@ body {
 }
 
 .abe-excerpt {
-    width: auto;
+    padding: 5px;
+    max-width: 500px;
     border: 1px solid white;
     box-shadow: 5px 5px black;
     border-radius: 5px;
