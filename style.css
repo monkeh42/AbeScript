@@ -5,6 +5,7 @@ body {
 }
 
 .testim {
+    padding: 5px;
     margin: 25px 0px;
     border: 1px solid white;
     max-width: 300px;
